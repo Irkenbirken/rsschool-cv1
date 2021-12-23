@@ -1,20 +1,22 @@
-##Iryna Pustynnikava
+## Iryna Pustynnikava
 
-####Contact information:
+---
+
+#### Contact information:
 
 - My location: **Minsk**, **Belarus**
 
 - Mobile Phone: **_+375 29 2161237_**
 
-- [E-mail: ](irken.birken@gmail.com)
+- [E-mail: irken.birken@gmail.com](irken.birken@gmail.com)
 
-- GitHub: Irkenbirken
+- GitHub: [Irkenbirken](https://github.com/Irkenbirken/)
 
-===
+=====
 
-####About myself
+#### About myself
 
-####Skills:
+#### Skills:
 
 - HTML5, CSS3
 
@@ -26,9 +28,9 @@
 
 - Figma
 
-===
+=====
 
-####Code example:
+#### Code example:
 
 ```
 const getSentenceTone = (sentence) => {
@@ -42,9 +44,9 @@ getSentenceTone(‘Hello!’)
 
 ```
 
-===
+=====
 
-####Courses:
+#### Courses:
 
 - HTML and CSS Tutorials on the ru.code-basics.com (completed)
 
@@ -54,7 +56,7 @@ getSentenceTone(‘Hello!’)
 
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
-####Languages:
+#### Languages:
 
 - **Russian** and **Belarusian** - Native
 
