@@ -10,7 +10,7 @@
 
 - Mobile Phone: **_+375 29 2161237_**
 
-- [E-mail: irken.birken@gmail.com](irken.birken@gmail.com)
+- E-mail: [irken.birken@gmail.com](irken.birken@gmail.com)
 
 - GitHub: [Irkenbirken](https://github.com/Irkenbirken/)
 
