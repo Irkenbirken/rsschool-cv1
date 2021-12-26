@@ -2,6 +2,8 @@
 
 ---
 
+---
+
 #### Contact information:
 
 - My location: **Minsk**, **Belarus**
@@ -12,9 +14,13 @@
 
 - GitHub: [Irkenbirken](https://github.com/Irkenbirken/)
 
-=====
+---
 
-#### About myself
+#### About myself:
+
+I worked as a doctor for more than 10 years but at some point of my life I realised that I want to change profession and I've decided to start learning Frontend development. I believe that I will be successful pursuing this difficult path because I'm eager to learn new things, I'm diligent and responsible person and I clearly see all the benefits that I can get with new skills.
+
+---
 
 #### Skills:
 
@@ -28,7 +34,7 @@
 
 - Figma
 
-=====
+---
 
 #### Code example:
 
@@ -44,7 +50,7 @@ getSentenceTone(‘Hello!’)
 
 ```
 
-=====
+---
 
 #### Courses:
 
@@ -55,6 +61,8 @@ getSentenceTone(‘Hello!’)
 - JavaScript on ru.code-basics.com and stepic.org (completed), learn.javascript.ru (in progress)
 
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+---
 
 #### Languages:
 
