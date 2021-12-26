@@ -1,1 +1,1 @@
-https://Irkenbirken.github.io/rsschool-cv/cv
+https://Irkenbirken.github.io/rsschool-cv/
